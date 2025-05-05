@@ -2,7 +2,6 @@
 - 👀 I'm a passionate **UI/UX designer and developer** who loves exploring new technologies, designing intuitive user experiences, and building cool, functional projects. I enjoy solving problems by blending creativity with code to create meaningful and user-centric solutions.
 - 🔭 I'm interested in backend development, cloud computing, open-source contributions and UI/UX
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on open-source projects
 - 🚀 Skills & Tools:  
   - **Languages**: Python, C++ 
   - **Frameworks**: Django, FastAPI
