@@ -13,6 +13,7 @@
   - LinkedIn: [kritika909](https://www.linkedin.com/in/kritika-sureka-29269a267/) 
 - 😄 Pronouns: she/her
 
+<!--
 Let's connect and create something amazing together! ✨
 
 <!---
